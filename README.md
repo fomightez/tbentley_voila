@@ -1,6 +1,6 @@
 # Project
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/tbentley_voila/HEAD?urlpath=%2Flab%2Ftree%2Ftroke_Prediction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/tbentley_voila/HEAD?urlpath=%2Flab%2Ftree%2FStroke_Prediction.ipynb)
 
 That will launch JupyterLab's full featured mode.
 
