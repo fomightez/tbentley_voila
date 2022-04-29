@@ -11,5 +11,5 @@ That will launch JupyterLab's full featured mode.
 
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/tbentley_voila/HEAD?filepath=Stroke_Prediction.ipynb)
  Launch to classic notebook interface mode 
- 
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/tbentley_voila/HEAD?urlpath=voila%2Frender%2Stroke_Prediction.ipynb)Launch direct to Voila 
+
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/tbentley_voila/HEAD?urlpath=voila%2Frender%2Stroke_Prediction.ipynb) Launch direct to Voila 
